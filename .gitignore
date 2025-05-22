@@ -39,3 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+echo "mockmate-8a79f-firebase-adminsdk-fbsvc-31a7b60124.json" >> .gitignore
